@@ -1,5 +1,5 @@
 import random
-
+print("Hello")
 word_definitions = {
     'Dog': {
         'Synonyms': ['Canine', 'Pooch', 'Hound', 'Fido', 'Puppy'],
